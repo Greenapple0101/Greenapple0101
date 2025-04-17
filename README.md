@@ -57,9 +57,6 @@
 - Email : <b>yorange50@gmail.com</b>  
 - GitHub Issues나 Discussions로 질문 남겨도 좋아요!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Greenapple0101&style=flat-square&color=grey" alt="visitor badge"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0,2,5,3&section=footer"/>

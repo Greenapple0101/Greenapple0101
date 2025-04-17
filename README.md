@@ -1,10 +1,3 @@
-## Hi there 👋
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yorange50)](https://solved.ac/yourbojhandle) 
-
- <img src="https://mazandi.herokuapp.com/api?handle=yorange50&theme=warm" alt="Solved.ac profile">
-
-
 <!-- 헤더 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,5,3&section=header&text=Welcome!&fontColor=ffffff&fontSize=48" alt="header"/>

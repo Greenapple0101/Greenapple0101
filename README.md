@@ -44,17 +44,6 @@
 
 <img src="https://mazandi.herokuapp.com/api?handle=yorange50&theme=warm" alt="solved graph" height="120"/>
 
-### 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Greenapple0101&show_icons=true&theme=onedark&hide_title=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greenapple0101&layout=compact&theme=onedark&hide_title=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Greenapple0101&theme=algolia&margin-w=10&margin-h=15&column=7" alt="trophy"/>
-</p>
-
----
 
 ## 📚 현재 집중하는 것
 - **Spring Boot + JPA**로 학원 관리 시스템 백엔드 구축  

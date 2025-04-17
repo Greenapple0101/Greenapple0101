@@ -1,4 +1,4 @@
-https://github.com/users/Greenapple0101/achievements
+
 
 <!-- 헤더 배너 -->
 <p align="center">

@@ -1,7 +1,8 @@
 ## Development Goal
 
 - Linux 기반 임베디드 환경에서 동작하는 백엔드 시스템 및
-  시스템 최적화 역량 강화를 목표로 실습 및 기능구현을 진행 중입니다.
+  시스템 최적화 역량 강화를 목표로
+  실습 및 기능 구현을 진행 중입니다.
 
 ## Tech Stack
 
@@ -9,7 +10,7 @@
 <p>
   <img src="https://img.shields.io/badge/Django REST Framework-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostqleSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 </p>
 
 ### System
@@ -32,4 +33,12 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</p>
+
+## Algorithm
+
+<p align="center">
+  <a href="https://solved.ac/yorange50">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yorange50" />
+  </a>
 </p>

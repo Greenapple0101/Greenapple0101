@@ -4,29 +4,21 @@
 
 ### MLOps / AI
 <p>
-  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white"/>
 </p>
 
-### CI/CD
+### CI/CD & Infra
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</p>
-
-### Container / Orchestration
-<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-</p>
-
-### Cloud / IaC
-<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>
 </p>
@@ -39,10 +31,10 @@
   <img src="https://img.shields.io/badge/Node Exporter-333333?style=flat-square&logo=Prometheus&logoColor=white"/>
 </p>
 
-### Language
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
 ## Algorithm

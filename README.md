@@ -4,12 +4,14 @@
 
 ### MLOps / AI
 <p>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG Pipeline-412991?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt Engineering-6C47FF?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Evaluation Pipeline-0A66C2?style=flat-square&logoColor=white"/>
+</p>
 </p>
 
 ### CI/CD

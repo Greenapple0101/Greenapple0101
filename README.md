@@ -2,16 +2,6 @@
 
 ## Tech Stack
 
-### MLOps / AI
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white"/>
-</p>
-
 ### CI/CD & Infra
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
@@ -33,7 +23,6 @@
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
